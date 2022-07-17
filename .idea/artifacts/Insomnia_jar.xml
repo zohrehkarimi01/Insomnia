@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Insomnia:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="Insomnia.jar">
+      <element id="module-output" name="Insomnia" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/res/swingx-1.6.1.jar/swingx-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/res/gson-2.8.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

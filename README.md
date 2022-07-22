@@ -1,6 +1,6 @@
 # Insomnia
 
-### **AUT Advanced Progrmming course project**
+### **AUT Advanced Programming course project**
 
 This ia a http client written in java based on insomnia UI. Using this app, you can send a http request with custom headers and json/form body and save the request and response.
 <br/>
